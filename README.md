@@ -1,11 +1,6 @@
 # Steam Asset Templates
 
-**A collection of blank template images for every Steam store and library asset you need when setting up a new game page.**  
-Save time. Stay consistent. Focus on making games.
-
-## Purpose
-
-Setting up your game on Steam can be a pain when you just need placeholder assets for testing, planning, or early submission. This repo provides **accurate, correctly sized blank templates** for every required and optional Steam graphical asset.
+**A collection of blank template images for every Steam store and library asset you need when setting up a new game page.** 
 
 ## What's Included
 
