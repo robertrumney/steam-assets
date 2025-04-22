@@ -4,7 +4,8 @@
 
 ## What's Included
 
-All assets are in `.png` format with transparent backgrounds where applicable. Dimensions follow the official [Steamworks Documentation](https://partner.steamgames.com/doc/store/assets) to the pixel.
+All assets are in `.png` format with transparent backgrounds where applicable. 
+Dimensions follow the official [Steamworks Documentation](https://partner.steamgames.com/doc/store/assets) to the pixel.
 
 ### Storefront Assets
 - **Capsule (Small):** `231x87`
