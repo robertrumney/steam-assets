@@ -11,7 +11,7 @@ Setting up your game on Steam can be a pain when you just need placeholder asset
 
 All assets are in `.png` format with transparent backgrounds where applicable. Dimensions follow the official [Steamworks Documentation](https://partner.steamgames.com/doc/store/assets) to the pixel.
 
-### 🛍 Storefront Assets
+### Storefront Assets
 - **Capsule (Small):** `231x87`
 - **Capsule (Main):** `616x353`
 - **Header:** `460x215`
