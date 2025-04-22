@@ -5,7 +5,7 @@ Save time. Stay consistent. Focus on making games.
 
 ## Purpose
 
-Setting up your game on Steam can be a pain when you just need placeholder assets for testing, planning, or early submission. This repo provides **accurate, correctly sized blank templates** for every required and optional Steam graphical asset — ready to drop in.
+Setting up your game on Steam can be a pain when you just need placeholder assets for testing, planning, or early submission. This repo provides **accurate, correctly sized blank templates** for every required and optional Steam graphical asset.
 
 ## What's Included
 
@@ -20,10 +20,3 @@ All assets are in `.png` format with transparent backgrounds where applicable. D
 - **Library Logo:** `1280x720`
 - **Community Icon:** `184x184`
 - **Client Icon:** `32x32`
-
-These templates are especially useful for:
-- Early Steam page submission
-- Testing layout and visual composition
-- Quick iteration without design bottlenecks
-
-**Made with love for fellow devs who just want to ship.**
